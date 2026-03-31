@@ -28,8 +28,7 @@ Manage your life goals, add items, pick random goals, and track progress — all
 ---
 
 ## 📂 Project Structure
-</>
-bucketlist/
+```bucketlist/
 ├─ client/ # React frontend
 │ ├─ src/
 │ │ ├─ api/ # Axios setup
@@ -41,9 +40,9 @@ bucketlist/
 │ ├─ routes/
 │ └─ server.js
 ├─ package.json
-└─ README.md
+└─ README.md```
 
-</>
+
 ---
 
 ## ⚡ Getting Started

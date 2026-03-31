@@ -40,7 +40,8 @@ Manage your life goals, add items, pick random goals, and track progress — all
 │ ├─ routes/
 │ └─ server.js
 ├─ package.json
-└─ README.md```
+└─ README.md
+```
 
 ---
 

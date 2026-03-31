@@ -53,7 +53,7 @@ Manage your life goals, add items, pick random goals, and track progress — all
 git clone https://github.com/yourusername/bucketlist.git
 cd bucketlist
 ```
-2. Install dependencies
+### 2. Install dependencies
 
 Backend:
 ```bash
@@ -65,7 +65,7 @@ Frontend:
 cd ../client
 npm install
 ```
-3. Setup environment variables
+### 3. Setup environment variables
 
 Create a .env file in server/:
 ```bash
@@ -73,7 +73,7 @@ MONGO_URI=your_mongodb_connection_string
 PORT=5000
 ```
 
-4. Run the project
+### 4. Run the project
 
 Backend:
 ```bash

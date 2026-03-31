@@ -42,7 +42,6 @@ Manage your life goals, add items, pick random goals, and track progress — all
 ├─ package.json
 └─ README.md```
 
-
 ---
 
 ## ⚡ Getting Started

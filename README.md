@@ -28,6 +28,7 @@ Manage your life goals, add items, pick random goals, and track progress — all
 ---
 
 ## 📂 Project Structure
+</>
 bucketlist/
 ├─ client/ # React frontend
 │ ├─ src/
@@ -42,7 +43,7 @@ bucketlist/
 ├─ package.json
 └─ README.md
 
-
+</>
 ---
 
 ## ⚡ Getting Started
